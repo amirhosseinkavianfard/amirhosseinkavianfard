@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicker&color=00d2ff&height=200&section=header&text=Amir%20Hossein%20Kavian%20Fard&fontSize=50&animation=twinkling&fontColor=fff&desc=Front-End%20Engineer%20|%20React%20Specialist&descSize=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&height=100&lines=Amir+Hossein+Kavian+Fard" />
 
   ### ⚡ "Late nights, hot coffee, clean commits"
   
