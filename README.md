@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠 My Tech Stack (Gamer Style)
+### 🛠 My Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 Performance Metrics (Neon Theme)
+### 📊 Performance Metrics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirHosseinKavianFard&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinKavianFard&layout=compact&theme=neon"/>
