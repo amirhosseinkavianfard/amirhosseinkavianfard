@@ -1,44 +1,70 @@
-# Hi! I'm [amirhossein kavianfard] 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=thicker&color=00d2ff&height=200&section=header&text=Amir%20Hossein%20Kavian%20Fard&fontSize=50&animation=twinkling&fontColor=fff&desc=Front-End%20Engineer%20|%20React%20Specialist&descSize=20" />
 
-I’m a beginner frontend developer passionate about learning and growing in the world of modern web technologies. I enjoy creating simple, responsive, and interactive websites and applications.
-
----
-
-## 💼 About Me
-I'm starting my journey in frontend development. I love building user-friendly, visually appealing websites and I'm constantly learning new technologies to improve my skills. I'm excited to keep growing and experimenting with new tools and frameworks.
-
----
-
-## 🔧 Skills
-- **Frontend Development**:
-  - HTML5
-  - CSS3
-  - JavaScript
-- **Frameworks & Libraries**:
-  - Materialize
-  - Alpine.js
+  ### ⚡ "Late nights, hot coffee, clean commits"
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Specialist;Linux+Lover;Building+the+Future...)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## 📚 Currently Learning
-- React
-- Responsive Design Techniques
+### 🚀 About Me
+- 🔭 **Specialty:** High-performance web applications with **React**.
+- 🐧 **OS:** Proud **Linux** user.
+- 🌙 **Vibe:** I turn caffeine into clean, modular code.
+- ⚡ **Goal:** Creating pixel-perfect neon interfaces.
 
 ---
 
-## 🎓 Education
-- **I'm student of computer science in tabriz azad university
+### 🛠 My Tech Stack (Gamer Style)
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Materialize-EB7077?style=for-the-badge&logo=material-design&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-## 📬 Contact Me
-- **Email**: [amirhosseinkavianfard1@gmail.com]
-- **GitHub**: [https://github.com/amirhosseinkavianfard]
+### 🌐 Connect with Me
+<div align="left">
+  <a href="mailto:amirhosseinkavianfard1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/kavicode" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/AmirHosseinKavianFard" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-> "Learning never stops."
+### 📊 Performance Metrics (Neon Theme)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirHosseinKavianFard&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinKavianFard&layout=compact&theme=neon"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinKavianFard&theme=neon" />
+</div>
 
 ---
 
-<p align="center">© 2025 [Amirhossein kavianfard]</p>
+### 👾 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirHosseinKavianFard&theme=react-dark)
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" />
+</div>
